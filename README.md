@@ -19,11 +19,23 @@
 | ------------- |:-------------:| 
 | Linux et client email      | 08 |  
 | Outils de présentation      | 08 | 
+| Wordpress      | 09 |  
+| Design     | 09 |  
+| Réseau et sécurité web     | 10 |  
+| E-commerce      | 10 |  
+| Otuils de veille | 11 |
+| Gestion de projets | 11 |
+| Newsletters | 12 |
+| CRM & ERP | 12 |
+| Référencement SEO | 13 |
+| Analytics | 13 |
+| Automatisation | 14 |
+| Médiation numérique | 14 |
+| Community Management | 15 |
+| Des suggestions ? | 15 |
 
-| Wordpress      | 08 |  
-| Design     | 08 |  
-| Réseau et sécurité web     | 08 |  
-| E-commerce      | 08 |  
+
+
 
 ----------------------------------------
 # Environnement Linux
