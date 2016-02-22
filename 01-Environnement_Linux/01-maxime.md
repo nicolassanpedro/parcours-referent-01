@@ -6,3 +6,6 @@ Ne pas oublier :
 * Community Management
 * Vidéo
 * 
+
+## Discussion JFK
+Vous êtes nos contacts.
