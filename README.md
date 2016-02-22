@@ -15,7 +15,15 @@
 12. [Outils d'automatisation](#outils-d'automatisation)
 13. [Médiation numérique](#médiation-numérique)
 
+| Topics        | Semaine           | 
+| ------------- |:-------------:| 
+| Linux et client email      | 08 |  
+| Outils de présentation      | 08 | 
 
+| Wordpress      | 08 |  
+| Design     | 08 |  
+| Réseau et sécurité web     | 08 |  
+| E-commerce      | 08 |  
 
 ----------------------------------------
 # Environnement Linux
