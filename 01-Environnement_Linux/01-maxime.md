@@ -1,5 +1,5 @@
 
-[22 février 2016](#lundi-22-fevrier)
+[22 février 2016](#lundi-22-février)
 
 # Lundi 22 février
 Lancement des hostilités
