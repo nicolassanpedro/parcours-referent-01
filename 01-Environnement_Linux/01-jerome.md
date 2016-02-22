@@ -10,7 +10,9 @@ Prise des connaissances des différents aspect du référent numérique et des d
 -----
 
 Faire les recherches pour faire une installation / réinstallation ou boot de Linux sur une machine.
+
 "Création d'un BackUp des fichiers avant une réinsatllation de Ubuntu."
+
 [StartUpDisk](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
 
 [LinuxLive USB Creator](http://www.linuxliveusb.com/fr/home)
