@@ -1,3 +1,6 @@
+
+[22 février 2016](#lundi-22-fevrier)
+
 # Lundi 22 février
 Lancement des hostilités
 
@@ -28,3 +31,8 @@ Faire la moyenne des estimations individuelles.
 
 Planning Poker
 https://fr.wikipedia.org/wiki/Planning_poker
+
+
+
+## Pb wifi après installation
+ sudo apt-get install --reinstall bcmwl-kernel-source
