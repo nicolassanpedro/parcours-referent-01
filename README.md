@@ -108,7 +108,7 @@
 * Connaître les sites de ressources
 
 ## Projet
-* Pour chaque outil, réaliser une présentation au sujet de Wordpress
+* Pour chaque outil, réaliser une présentation au sujet de Wordpress (environ 10 minutes)
 * Inclure des photos libres de droit
 * Inclure une ou plusieurs infographies
 
@@ -195,7 +195,45 @@
 ## Objectifs
 * Connaître les différents formats d'images
 * Savoir réaliser un wireframe basique
-* Savoir manipuler une image : recadrer, redimensionner, changement de format, de qualité
+* Savoir manipuler une image : recadrer, détourer, redimensionner, changement de format, de qualité
+
+
+## Projet
+* Redimmensionner une image
+* Enlever le fond blanc d'une photo
+* Modifier une image pour avoir un contour en "cercle"
+* Altérer la qualité d'une image sans modifier sa taille
+* Convertir une image vers jpg et png
+
+
+## Notions
+
+1. Le Wireframe
+	1. Les outils de wireframe
+	2. 
+2. La manipulation d'images
+	1. Les différents formats d'image numérique
+		1. JPG
+		2. PNG
+		3. Les autres
+			* http://www.01net.com/astuces/comprendre-et-utiliser-les-formats-dimages-506746.html
+			* http://www.clashinfo.com/aide-informatique/multimedia/art153-formats-image.html
+			* http://tecfa.unige.ch/tecfa/teaching/staf13/fiches-mm/formatfichier.htm
+	2. Les différents logiciels
+	3. Découverte de Gimp
+3. Les fonctionnalités basiques de Gimp
+	1. Redimensionnement
+	2. Recadrage
+	3. Changement de format
+	4. Découpage
+	5. Suppression du 'background'
+	6. Altération de la qualité
+	7. Composition de calques
+		* https://docs.gimp.org/2.6/fr/gimp-tutorial-quickies.html
+		* https://openclassrooms.com/courses/apprenez-a-creer-avec-gimp-2-8
+		* http://fr.tuto.com/gimp/tuto-gimp-gratuit.htm
+		* http://docs.gimp.org/fr/
+
 
 
 
@@ -203,11 +241,14 @@
 
 ----------------------------------------
 # E-commerce
+
+## Objectifs
+* Savoir mettre en place un site marchand basique
   * WooCommerce
   * Magento
   * Prestashop
   * Paiement en ligne
-* Savoir mettre en place un site marchand
+ *
 
 
 
@@ -255,6 +296,12 @@
 ----------------------------------------
 # Outils d'automatisation
 
+
+----------------------------------------
+# Community Management
+* Twitter, Facebook, LinkedIn, Google Plus, Instagram, Snapchat
+* Tweet Deck
+* Buffer
 
 ----------------------------------------
 # Médiation numérique
