@@ -1,6 +1,7 @@
 # Lundi 22 février
 ----------
 "Création d'un BackUp des fichiers avant une réinsatllation de Ubuntu."
+[StartUpDisk](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
 
 ## Référent Numérique
 
