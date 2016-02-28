@@ -145,8 +145,30 @@
 	3. D3.js
 
 
+# Gestion de projet
 
+## Objectifs
+* Saisir l'importance d'une bonne gestion de projet
+* Découvrir les outils et méthodes pour gérer efficacement un projet
+* Savoir appliquer la gestion de projet à un cas concret
 
+1. Planifier dans le temps
+2. Chiffrer le budget
+3. Maîtriser et piloter les risques
+4. Atteindre le niveau de qualité souhaité
+
+## Ressources
+https://fr.wikipedia.org/wiki/Gestion_de_projet
+http://www.gestiondeprojet.net
+http://www.blog-gestion-de-projet.com/lindispensable-planification-de-votre-projet-les-concepts/
+http://www.blog-gestion-de-projet.com/quest-ce-que-le-planning-poker/
+
+## Aller plus loins
+https://fr.wikipedia.org/wiki/Unified_process
+https://fr.wikipedia.org/wiki/Diagramme_des_cas_d'utilisation
+https://fr.wikipedia.org/wiki/UML_%28informatique%29#Les_diagrammes
+https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/
+https://freedcamp.com/tour
 
 ----------------------------------------
 # Wordpress
