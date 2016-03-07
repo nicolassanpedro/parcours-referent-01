@@ -157,6 +157,7 @@
 3. Maîtriser et piloter les risques
 4. Atteindre le niveau de qualité souhaité
 
+
 ## Ressources
 https://fr.wikipedia.org/wiki/Gestion_de_projet
 http://www.gestiondeprojet.net
@@ -168,6 +169,9 @@ https://fr.wikipedia.org/wiki/Unified_process
 https://fr.wikipedia.org/wiki/Diagramme_des_cas_d'utilisation
 https://fr.wikipedia.org/wiki/UML_%28informatique%29#Les_diagrammes
 https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/
+http://gestiondeprojet.pm/tag/check-list/
+http://gestiondeprojet.pm/fondamentaux-de-la-gestion-de-projet/
+http://rb.ec-lille.fr/l/Projets/Projet_Outils-basiques.pdf
 https://freedcamp.com/tour
 
 ----------------------------------------
